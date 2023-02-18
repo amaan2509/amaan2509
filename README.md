@@ -3,9 +3,7 @@
 
 <img src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif" alt="A Coding boy" align="right" width="400">
 
-<a href="https://tenor.com/view/carryminati-ajey-nagar-kya-baat-hai-clap-gif-17606936" target="_target">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vipinprajapat&label=Profile%20views&color=0e75b6&style=flat" alt="vipinprajapat" /> </p>
-</a>
 
 - 🔭 I’m currently working at **Tops Technology**
 
