@@ -13,8 +13,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/vipin-prajapat-183215212/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-prajapat-183215212/" height="30" width="40" /></a>
-<a href="https://fb.com/vipinprajapat.prajapat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vipinprajapat.prajapat" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-aman-401b4123a" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vipin-prajapat-183215212/" height="30" width="40" /></a>
+<a href="https://www.facebook.com/mohammad.aman.16547" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="vipinprajapat.prajapat" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mr_amaan_786/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_vipin01___" height="30" width="40" /></a>
 </p>
 
